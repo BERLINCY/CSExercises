@@ -24,9 +24,19 @@ namespace CSExercises
 
         public static int square(int x)
         {
-            //PUT YOUR CODE HERE
-            return 0;
+            int num1, result;
+            //Displaying message
+            Console.WriteLine("Please enter value");
 
+            //Accepting Value in num1
+            num1 = Int32.Parse(Console.ReadLine());
+            result = num1 * num1; //processing value
+
+            Console.WriteLine("square {0}  is {1}", num1, result); //Output
+
+            Console.ReadLine();
+            return 0;
+            //try
         }
     }
 }

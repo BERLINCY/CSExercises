@@ -12,7 +12,7 @@ namespace CSExercises
 
     //$ 2.40 (first 0.5 km) +
     //$ 85 * 0.04 (next 8.5 km) +
-    //$ (122 -90) * 0.05 (for distance over 9.0 km)
+    //$ (122 -90) * 0.05 (for distance over 9.0 km)//try
     //=  $7.40
 
 
